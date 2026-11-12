@@ -1,6 +1,6 @@
 # 10ten feedback
 
-This is where you can suggest features, report bugs, and ask questions about the [10ten app](https://app.10ten.life).
+This is where you can report bugs, suggest features, and ask questions about the [10ten app](https://app.10ten.life).
 
 **[Go to Discussions →](https://github.com/birchill/10ten-feedback/discussions)**
 
@@ -12,8 +12,8 @@ No account, or don't want to create one? Email us at [support@10ten.life](mailto
 
 | You want to…                            | Post in                                                                         |
 | --------------------------------------- | ------------------------------------------------------------------------------- |
-| Suggest a new feature or an improvement | [✨ Feature requests](https://github.com/birchill/10ten-feedback/discussions/new?category=feature-requests) |
 | Report something that's broken or wrong | [🐛 Bugs](https://github.com/birchill/10ten-feedback/discussions/new?category=bugs)   |
+| Suggest a new feature or an improvement | [✨ Feature requests](https://github.com/birchill/10ten-feedback/discussions/new?category=feature-requests) |
 | Ask how something works or get help    | [🙋 Q&A](https://github.com/birchill/10ten-feedback/discussions/new?category=q-a)     |
 
 Before you post, [search](https://github.com/birchill/10ten-feedback/discussions) to see if someone has already raised it. If they have, click the ▲ upvote arrow on their post or add a comment instead of starting a new one. Upvotes help us see what matters most.
