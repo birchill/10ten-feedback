@@ -1,0 +1,30 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Everything here is public, so please don't include your email address or account details. For private or account issues, email support@10ten.life.
+
+        Please search first. If someone has already reported this, click the ▲ upvote arrow on their post instead.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: query
+    attributes:
+      label: Word or sentence
+      description: If this is about a search result, reading, or definition, paste the text you used.
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      description: Write what you know. It's fine if you're not sure.
+      placeholder: e.g. Chrome on Windows, Safari on iPhone
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Paste or attach images here.

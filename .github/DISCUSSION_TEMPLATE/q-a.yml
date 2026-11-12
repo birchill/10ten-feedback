@@ -1,0 +1,14 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Everything here is public, so please don't include your email address or account details. For private or account issues, email support@10ten.life.
+
+        Please search first. Your question may already have an answer.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What would you like to know? If it's about a specific word, sentence, or screen, include it.
+    validations:
+      required: true
