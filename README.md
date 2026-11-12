@@ -1,6 +1,6 @@
 # 10ten feedback
 
-This is where you can report bugs, suggest ideas, and ask questions about the [10ten app](https://10ten.life).
+This is where you can report bugs, suggest ideas, and ask questions about the [10ten app](https://app.10ten.life).
 
 **[Go to Discussions →](https://github.com/birchill/10ten-feedback/discussions)**
 
