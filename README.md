@@ -4,7 +4,9 @@ This is where you can report bugs, suggest ideas, and ask questions about the [1
 
 **[Go to Discussions →](https://github.com/birchill/10ten-feedback/discussions)**
 
-Anyone can read the discussions. To post, comment, or upvote, you need a free GitHub account. No account, or don't want to create one? Email us at [support@10ten.life](mailto:support@10ten.life) instead.
+Anyone can read the discussions. To post, comment, or upvote, you need a free GitHub account.
+
+No account, or don't want to create one? Email us at [support@10ten.life](mailto:support@10ten.life) instead.
 
 ## Where to post
 
