@@ -12,7 +12,8 @@ No account, or don't want to create one? Email us at [support@10ten.life](mailto
 
 | You want to…                            | Post in                                                                         |
 | --------------------------------------- | ------------------------------------------------------------------------------- |
-| Report something that's broken or wrong | [🐛 Bugs](https://github.com/birchill/10ten-feedback/discussions/new?category=bugs)   |
+| Report something in the app that's broken | [🐛 Bugs](https://github.com/birchill/10ten-feedback/discussions/new?category=bugs)   |
+| Report a wrong or missing word, meaning, reading, or furigana | [📖 Dictionary & readings](https://github.com/birchill/10ten-feedback/discussions/new?category=dictionary-readings) |
 | Suggest a new feature or an improvement | [✨ Feature requests](https://github.com/birchill/10ten-feedback/discussions/new?category=feature-requests) |
 | Ask how something works or get help    | [🙋 Q&A](https://github.com/birchill/10ten-feedback/discussions/new?category=q-a)     |
 
@@ -26,7 +27,7 @@ The more we know, the faster we can fix it. Tell us what you can:
 
 - What you did, what you expected to happen, and what happened instead
 - Your browser and device (for example, "Chrome on Windows" or "Safari on iPhone")
-- The word or sentence involved, if it's about a search result, reading, or definition
+- The word or sentence you searched for, if it happened while searching
 - A screenshot, if you can
 
 ## What happens after you post

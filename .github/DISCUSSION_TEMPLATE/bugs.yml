@@ -5,6 +5,8 @@ body:
         Thanks for taking the time to report this. Everything here is public, so please don't include your email address or account details. For private or account issues, email support@10ten.life.
 
         Please search first. If someone has already reported this, click the ▲ upvote arrow on their post instead.
+
+        Is a word, meaning, reading, or furigana wrong or missing? Please post in [Dictionary & readings](https://github.com/birchill/10ten-feedback/discussions/new?category=dictionary-readings) instead.
   - type: textarea
     id: what-happened
     attributes:
@@ -16,7 +18,7 @@ body:
     id: query
     attributes:
       label: Word or sentence
-      description: If this is about a search result, reading, or definition, paste the text you used.
+      description: If this happened while searching, paste the text you used.
   - type: input
     id: environment
     attributes:
